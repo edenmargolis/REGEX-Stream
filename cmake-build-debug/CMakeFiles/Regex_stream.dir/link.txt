@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Regex_stream.dir/main.cpp.o CMakeFiles/Regex_stream.dir/Node.cpp.o CMakeFiles/Regex_stream.dir/Scanner.cpp.o CMakeFiles/Regex_stream.dir/Parser.cpp.o CMakeFiles/Regex_stream.dir/Generator.cpp.o -o Regex_stream 

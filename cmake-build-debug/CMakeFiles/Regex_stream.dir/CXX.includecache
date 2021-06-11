@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dani/programming/Regex_stream/Generator.cpp
+iostream
+-
+Generator.h
+/home/dani/programming/Regex_stream/Generator.h
+Scanner.h
+/home/dani/programming/Regex_stream/Scanner.h
+Parser.h
+/home/dani/programming/Regex_stream/Parser.h
+
+/home/dani/programming/Regex_stream/Generator.h
+Node.h
+/home/dani/programming/Regex_stream/Node.h
+
+/home/dani/programming/Regex_stream/Node.h
+string
+-
+vector
+-
+
+/home/dani/programming/Regex_stream/Parser.h
+string
+-
+vector
+-
+Node.h
+/home/dani/programming/Regex_stream/Node.h
+
+/home/dani/programming/Regex_stream/Scanner.h
+vector
+-
+string
+-
+
